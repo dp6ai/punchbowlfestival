@@ -1,0 +1,93 @@
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+.menu{
+font-weight: bold;
+
+width: 100%;
+/*min-height:25px;*/
+}
+
+.menu ul{
+padding: 0px 0 7px 0; /*6px should equal top padding of "ul li a" below, 7px should equal bottom padding + bottom border of "ul li a" below*/
+margin: 0;
+text-align: center; //set value to "left", "center", or "right"*/
+
+}
+
+.menu ul li{
+display: inline;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:10px;
+}
+/*
+.menu ul li.tr{
+background:url(../images/bullets/bullet_tr.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_tr.jpg);
+
+}
+.menu ul li.circ{
+background:url(../images/bullets/bullet_circ.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_circ.jpg);
+}
+.menu ul li.tri{
+background:url(../images/bullets/bullet_tri.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_tri.jpg);
+}
+.menu ul li.crown{
+background:url(../images/bullets/bullet_crown.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_crown.jpg);
+}
+.menu ul li.tr br{
+background:url(../images/bullets/bullet_br.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_br.jpg);
+}
+*/
+.menu ul li#home{
+background:url(../images/bullets/bullet_tr.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_tr.jpg);
+}
+.menu ul li#nav_news{
+background:url(../images/bullets/bullet_tri_down.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_tri_down.jpg);
+
+}
+
+.menu ul li#nav_about{
+background:url(../images/bullets/bullet_circ.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_circ.jpg);
+}
+.menu ul li#nav_tickets{
+background:url(../images/bullets/bullet_tri.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_tri.jpg);
+}
+.menu ul li#nav_whats-on{
+background:url(../images/bullets/bullet_crown.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_crown.jpg);
+}
+.menu ul li#nav_good-to-know{
+background:url(../images/bullets/bullet_br.jpg) 0 no-repeat; 
+list-style-image: url(../images/bullets/bullet_br.jpg);
+}
+
+
+
+
+
+
+.menu ul li a{
+color: #494949;
+padding: 6px 3px 4px 3px; /*top padding is 6px, bottom padding is 4px*/
+margin-right: 40px; /*spacing between each menu link*/
+/*border-bottom: 3px solid gray; /*bottom border is 3px*/
+font-size:1.0em;
+text-decoration:none;
+
+
+
+}
+
+.menu ul li a:hover, .menu ul li a.selected{
+border-bottom-color: black;
+}

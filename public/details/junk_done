@@ -1,0 +1,212 @@
+----NOT USED
+-------creatinve production--production
+<div id="slider">
+  <ul>
+    <li style="float: left;"><a href="/production/live-music-with-penultimate-press/"><r:assets:image id="113" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/netaudio08-london/"><r:assets:image id="64" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/seas-club-gothenburg/"><r:assets:image id="65" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/rt-the-audience-videocast-project/"><r:assets:image id="66" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/netaudio-ping-pong/"><r:assets:image id="67" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/new-music-action-at-the-serpentine-pavilion/"><r:assets:image id="68" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/new-music-action-at-the-serpentine-pavilion/"><r:assets:image id="69" size="original" /></a></li
+    <li style="float: left;"><a href="/production/netaudio06-london/"><r:assets:image id="70" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/netaudio08-london/"><r:assets:image id="71" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/club-transmediale-netlabel-meeting-pt-ii-netaudio/"><r:assets:image id="72" size="original" /></a></li>
+    <li style="float: left;"><a href="/production/netaudio08-london/"><r:assets:image id="73" size="original" /></a></li>
+     </ul>
+</div>
+
+Since 2005, Cenatus has produced projects across the fields of concerts, club nights, music industry conferences, digital media projects, sound design and audio installations. 
+
+With Cenatus we run our own creative productions such as the "Netaudio":http://netaudiolondon.cc festival and the "Infrasonics":http://infrasonics.net label as well as work with clients helping them to achieve their creative ambitions. With all productions we maintain a strong focus on audiences, striving to offer them unique and inspiring experiences.
+
+As a small company set in London's East End we work locally, nationally and on "European level":http://www.rhiz.eu/institution-31137-en.html within a network of like minded organisations. Working with clients, we offer direct access to most skilled person in the team: "Andi Studer":/people/andi-studer/ is an experienced event producer working on green-field festival projects, urban subcultures as well as in high-profile art gallery settings. "Matt Spendlove":people/matt-spendlove/ brings extensive experience in sound design, music production and has co-produced Netaudio since 2006. Together, we bring the enthusiasm and specialist knowledge needed to make your project a outstanding success.
+
+Please "contact us":/contact/ if you like to find our more about our creative projects or if you like to discuss your ideas and production needs.
+
+------services master layout
+<r:snippet name="html_header"/>
+<body>
+<r:snippet name="header"/>
+<div class="colmask threecol">
+  <div class="col1">
+    <!-- Column 1 start -->
+    <r:content_for_layout/>
+    <!-- Column 1 end -->
+  </div>
+  <div class="col2">
+    <!-- Column 2 start -->
+    <r:if_url matches="web-design">
+      <r:snippet name="clients_web_design"/>
+    </r:if_url>
+    <r:if_url matches="production">
+      <r:snippet name="clients_production"/>
+    </r:if_url>
+    <!-- Column 2 end -->
+  </div>
+  <div class="col3">
+    <!-- Column 3 start -->
+    <r:snippet name="twitter"/>
+    <r:snippet name="subscribe"/> 
+    <r:snippet name="sponsors"/>
+    <!-- Column 3 end -->
+  </div>
+</div>
+<r:snippet name="footer"/>
+</body>
+</html>
+
+
+
+
+------USED
+-----header snip
+<div id="header">
+  <div id="logo">
+    <a href="/">
+      <r:assets:image title="cenatus-logo" size="original" />
+    </a>
+  </div>
+
+  <div class="navwrapper">
+  <ul id="topnav">
+    <li><a href="/projects">Projects</a></li>
+    <li><a href="/web-design">Web Design</a></li>
+    <li><a href="/production">Production</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
+  <div id="rss">
+    <div id="rss_wrapper">
+      <p>updates via <span class="bold">RSS</span> <a href="http://feeds.feedburner.com/cenatus"><r:assets:image title="rss" size="original" /></a></p>
+    </div>
+  </div>
+  <div id="search">
+    <form id="search_form" method="get" action="/search">
+      <input name="q" id="q" alt="search" value="Search Cenatus" onfocus="this.value='';"/>
+      <input type="submit" value=""/>
+    </form>
+  </div>
+  </div>
+</div>
+
+-----html snip
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/> 
+    <meta name="Keywords" content="Netaudio, New Music Plus, Serpentine Gallery, conference, digital, evaluation, event, festival, infrasonics, installation, interactive, internship, record label, technology, online media, people, production, sharing, sound design, web design, hackney, matt spendlove, andi studer"/> 
+    <meta name="Description" content="Cenatus promotes new music, develops artists and enables wider public use of new digital technologies for creativity. Cenatus works in the fields of web design and creative production including live music events, sound art installations, online media projects. Cenatus produces Netaudio London, the UK’s foremost festival dedicated to the musical sounds of the Internet. Building on the success of to two festivals in 2006 and 2008 and various projects across Europe, Netaudio is to return to London in autumn 2010. Cenatus was set up as a not-for-profit membership organisation in 2005 and is incorporated as the community interest company Cenatus CIC since October 2009. Matt Spendlove and Andi Studer lead the company as directors and are supported by a network of associates working on the various Cenatus projects."  /> 
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /> 
+    <meta http-equiv="imagetoolbar" content="no" /> 
+    <meta name="google-site-verification" content="TY-DmtIL7_4UM5nAjoOUFUjKXl6w_IAWlijEhvyxQ0Y" />
+  <title>
+    <r:title/>
+  </title>
+  <link href="http://feeds.feedburner.com/cenatus" rel="alternate" title="RSS" type="application/rss+xml"/>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/events_calendar.css"/>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/tags.css"/>
+  <script type="text/javascript" src="/javascripts/prototype.js"></script>
+  <script type="text/javascript" src="/javascripts/events_calendar.js"></script>
+
+
+  <r:snippet name="stylesheet"/>
+
+  <script type="text/javascript" src="/javascripts/jquery-1.3.1.js"></script>
+  <script type="text/javascript" src="/javascripts/easySlider1.5.js"></script>
+
+  <script type="text/javascript">
+    jQuery.noConflict();
+
+    jQuery(document).ready(function(){
+
+      //Full Caption Sliding (Hidden to Visible)
+      jQuery('.boxgrid.captionfull').hover(function(){
+        jQuery(".cover", this).stop().animate({top:'207px'},{queue:false,duration:160});
+      }, function() {
+        jQuery(".cover", this).stop().animate({top:'307px'},{queue:false,duration:160});
+      });
+
+      jQuery("#slider").easySlider({
+        auto: true,
+        continuous: true,
+        controlsShow: false,
+        pause: 6000
+      });
+
+    });
+  </script>
+
+
+</head>
+------footer snip
+<div id="footer">
+  <p id="contact"> <a href="/contact/" title="contact us">Contact Cenatus</a></p>
+  <p>Cenatus CIC Reg. No. 7055281</p>
+</div>
+------master lyout
+<r:snippet name="html_header"/>
+<body>
+<r:snippet name="header"/>
+<div class="colmask threecol">
+  <div class="col1">
+    <!-- Column 1 start -->
+    <r:content_for_layout/>
+    <!-- Column 1 end -->
+  </div>
+  <div class="col2">
+    <!-- Column 2 start -->
+    <r:snippet name="tagcloud"/>
+    <r:snippet name="playlist"/>
+    <!-- Column 2 end -->
+  </div>
+  <div class="col3">
+    <!-- Column 3 start -->
+    <r:snippet name="twitter"/>
+    <r:snippet name="subscribe"/> 
+    <r:snippet name="sponsors"/>
+    <!-- Column 3 end -->
+  </div>
+</div>
+<r:snippet name="footer"/>
+<r:snippet name="analytics"/>
+</body>
+</html>
+------project layout
+<r:inside_layout name="master">
+  <div id="project">
+    <h2><r:title /></h2>
+
+
+    <r:content_for_layout/>
+    <p><r:tag_list /></p>
+  </div>
+
+</r:inside_layout>
+-----about page--project
+Cenatus promotes new music, develops artists and enables wider public use of new digital technologies for creativity.
+
+Cenatus works in the fields of "web design":/web-design/ and "creative production":/production/ including live music events, sound art installations, online media projects.
+
+Cenatus produces "Netaudio London":http://netaudiolondon.cc, the UK’s foremost festival dedicated to the musical sounds of the Internet. Building on the success of to two festivals in 2006 and 2008 and various projects across Europe, Netaudio is to return to London in autumn 2010. 
+
+Cenatus was set up as a not-for-profit membership organisation in 2005 and is incorporated as the community interest company Cenatus CIC since October 2009. "Matt Spendlove":/people/matt-spendlove/ and "Andi Studer":/people/andi-studer/ lead the company as directors and are supported by a network of associates working on the various Cenatus projects.
+
+<r:tagged with="people">
+<div class="project_item">
+  <h2><r:title /></h2>
+  <div class="project_pic" style="background-image:url('<r:assets:first:url/>');">
+    <r:link>
+      <r:assets:image title="image-mask" size="original" />
+    </r:link>
+  </div>
+  <r:content part="summary"/>
+  <p><r:link anchor="body">more&#8230;</r:link></p>
+</div>
+<div class="entry">
+</div>
+</r:tagged>
+
+Previous participants in our internship scheme can be found "here":/search/by-tag/internship 
+

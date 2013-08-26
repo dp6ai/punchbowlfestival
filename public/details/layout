@@ -1,0 +1,63 @@
+----band layout 
+<div id="horiz">
+   <r:aggregate urls="/bands;"> 
+     <r:children:each>
+	<div id="textbox">
+
+		<div id="maintext" class="odd">
+			<h1><r:child:title /></h1>
+			<p><r:content_for_layout/></p>
+		</div>
+		<div id="linktext">
+			<r:content part="links" />
+		</div>
+		
+	</div>
+	<div id="imagebox">
+			<r:content part="image" />		
+	</div>
+  </r:children:each> 
+</r:aggregate>
+</div>
+
+----home layout
+<r:snippet name="html_header" />
+<body class="default">
+<div id="site">
+<div id="home" class="page">
+<div id="pagebox">
+<!--HEADER -LOGO ETC.-->
+<r:snippet name="header"/> 
+<!--ALL MAIN CONTENT-->
+<div id="main">
+<r:content_for_layout/>				
+
+</div>
+<!--FOOTER INFO-->
+<div id="foot">
+<r:snippet name="footer"/>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+-----js layout
+<r:content/>
+
+----main layout
+<r:inside_layout name="home">
+<div id="horiz">
+<div id="textbox" class="main">
+<div id="maintext" class="odd">
+<r:content_for_layout/>
+</div>
+<div id="imagebox">
+<!--<img class="band" src="../images/junk/twinshadow.jpg" alt="punch bowl festival logo"  /> -->
+</div>
+</div>
+</r:inside_layout>
+
+----stylesheet layout
+<r:content/>

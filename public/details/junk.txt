@@ -1,0 +1,28 @@
+<r:snippet name="html_header"/>
+<body>
+<r:snippet name="header"/>
+<div class="colmask threecol">
+  <div class="col1">
+    <!-- Column 1 start -->
+    <r:content_for_layout/>
+    <!-- Column 1 end -->
+  </div>
+  <div class="col2">
+    <!-- Column 2 start -->
+    <r:snippet name="tagcloud"/>
+    <r:snippet name="playlist"/>
+    <!-- Column 2 end -->
+  </div>
+  <div class="col3">
+    <!-- Column 3 start -->
+    <r:snippet name="twitter"/>
+    <r:snippet name="subscribe"/> 
+    <r:snippet name="sponsors"/>
+    <!-- Column 3 end -->
+  </div>
+</div>
+<r:snippet name="footer"/>
+<r:snippet name="analytics"/>
+</body>
+</html>
+

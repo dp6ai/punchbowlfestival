@@ -1,0 +1,35 @@
+-------home page-----master
+<r:tagged order="desc" with="featured" by="position">
+<div class="project_item">
+  <h2><r:title /></h2>
+  <div class="project_pic" style="background-image:url('<r:assets:first:url/>');">
+    <r:link>
+      <r:assets:image title="image-mask" size="original" />
+    </r:link>
+  </div>
+  <div class="text"><r:content part="summary"/></div>
+  <p class="more"><r:link anchor="body">more&#8230;</r:link></p>
+</div>
+<div class="entry">
+</div>
+</r:tagged>
+
+------------net audio page under creatinve production --production
+
+<div class="boxgrid captionfull">
+<r:assets:image id="34" size="original" />
+  <div class="cover boxcaption">
+        <h3><r:assets:caption id="34"/></h3>
+      </div>
+</div>
+
+Netaudio, the UK’s foremost festival dedicated to the musical sounds of the Internet promotes the creative output of musicians, who use digital and network technologies to explore new boundaries in their work and actively supports the development of new talent. 
+
+In "2008 Netaudio":http://2008.netaudiolondon.cc/festival/ took over the spacious "Shunt Lounge":http://shunt.co.uk/ for 4 days. The programme included 8 audio-visual installations and 45 live performances with a total of 81 artists involved. The festival welcomed over 2700 visitors. View "report":http://2008.netaudiolondon.cc/file_download/66/.
+
+2009 appearances:
+Netaudio floor at "Club Transmediale":http://www.clubtransmediale.de/festival-09/night-program/schedule/27/netlabel-meeting-pt-ii-netaudio.html, Berlin, 27 January 09
+Netaudio stage at "Freerotation":http://www.freerotation.com/, Wales, 14-16 August 09
+Netaudio London stage at "Netaudio Berlin":http://www.netaudioberlin.de/, 8-11 October 09
+
+In 2010 we undertook an extensive "R&D project":http://cenatus.org/production/netaudio-research-perspectives-in-digital-music/. The next issue of the festival is scheduled for the weekend of 14/15 May 2011. More info on the "netaudiolondon.org":http://netaudiolondon.org website and via "@netaudioldn":http://twitter.com/netaudioldn or "facebook.com/netaudioldn":http://www.facebook.com/netaudioldn

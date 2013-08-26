@@ -1,0 +1,65 @@
+----band snippet
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+			<h1>xxx<r:title/></h1>
+			<r:content_for_layout/>
+		</div>
+		<div id="linktext">
+			<r:content part="links"/>
+		</div>
+		
+	</div>
+	<div id="imagebox">
+		<r:content part="image"/> 
+	</div>
+</div>
+----foooter snippet
+<div id="footer">
+  <p id="contact"> <a href="/contact/" title="contact us">Punchbowl Festival</a></p>
+</div>
+----header snippet
+<div id="header">
+<div id="logo">
+<img class="logo" src="../images/logo/punchbowllogo.jpg" alt="punch bowl festival logo" /> 
+<!-- <r:asset:title="logo" />   REMOVE -->
+</div>
+</div>
+<!--NAVIGATION - MENU-->
+<div id="nav">
+<div id="menu" class="menu">
+ <r:snippet name="menu"/>
+</div>
+</div>
+----html_header snippet
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+  <title>punchbowl festival - THIS NEEDS CHANGING............................ </title>
+  <r:meta />
+  <!-- Individual YUI CSS files --> 
+  <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/reset/reset-min.css"> 
+  <link rel="stylesheet" type="text/css" href="/css_main" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_menu" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_print" media="all" title="Default" charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="/stylesheets/tags.css" />
+  <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="/css_ie" media="all" title="Default" charset="utf-8"/>
+  <![endif]-->
+  <!--[if lt IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css_ie5" media="all" title="Default" charset="utf-8"/>
+  <![endif]-->
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+ <script type="text/javascript">
+ </script>
+</head>
+----logo snippet
+<img class="logo" src="../images/logo/punchbowllogo.jpg" alt="punch bowl festival logo" />
+---meun snippet
+<div id="nav">
+ <div id="menu" class="menu">
+  <ul>
+   <r:nav root="/" class="tr"  depth="1" expand_all="true" ids_for_lis="true" except="(css|js|xml|thanks)/*" />
+  </ul>
+ </div>
+</div>

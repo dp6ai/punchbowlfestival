@@ -1,0 +1,379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+  <title>Punchbowl Festival 2011 - 3rd - 4th September - Wiltshire</title>
+  <meta name="description" content="" /><meta name="keywords" content="" />
+  <!-- Individual YUI CSS files --> 
+  <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/reset/reset-min.css"> 
+  <link rel="stylesheet" type="text/css" href="/css_main" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_menu" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_gallery" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_print" media="all" title="Default" charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="/stylesheets/tags.css" />
+<link href="/stylesheets/fancy_box/jquery.fancybox-1.3.0.css" media="all" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="/css_ie" media="all" title="Default" charset="utf-8"/>
+  <![endif]-->
+  <!--[if lt IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css_ie5" media="all" title="Default" charset="utf-8"/>
+  <![endif]-->
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript" src="/javascripts/highslide/highslide-with-gallery.js"></script>
+ <script type="text/javascript">
+ </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24675910-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body class="default">
+<div id="site">
+<div id="homepage" class="page">
+<div id="pagebox">
+<!--HEADER -LOGO ETC.-->
+<div id="header">
+<div id="logo">
+<!-- <img class="logo" src="../images/logo/punchbowllogo.jpg" alt="punch bowl festival logo" />   REMOVE -->
+<a href="/"><img src="/assets/2/punchbowllogo.gif" class="logo" alt='punchlogo' /> </a>
+</div>
+</div>
+<!--NAVIGATION - MENU-->
+<div id="nav">
+<div id="menu" class="menu">
+ <div id="nav">
+ <div id="menu" class="menu">
+<ul>
+    <ul class="tr">
+    <li class="current first" id="home"><a href="/" id="link_home">HOME</a></li>
+	<li id="nav_about">
+    <a href="/about/" id="link_about">ABOUT</a></li>
+	<li id="nav_tickets">
+    <a href="/tickets/" id="link_tickets">TICKETS</a></li>
+	<li id="nav_line-up">
+    <a href="/line-up/" id="link_line-up">LINE-UP</a></li>
+	<li id="nav_good-to-know">
+    <a href="/good-to-know/" id="link_good-to-know">GOOD TO KNOW</a></li>
+
+    </ul>
+</ul>
+ </div>
+</div>
+</div>
+</div>
+ 
+<!--ALL MAIN CONTENT-->
+<div id="main">
+<div id="horiz" class="home"><h1>LATEST NEWS AND CONFIRMED BANDS</h1></div>
+
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">rolling stage</h1>
+			<p>Many thanks to Rolling Stage who are helping us to make the farm look better than ever this year. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.rollingstage.co.uk">www.rollingstage.co.uk</a><br />
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/37/rs.jpg" class="band" alt='rs' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Custard</h1>
+			<p>Bristol based Designer and Dressmaker Janine Chisholm sells vintage clothing, nicely selected used clothing and customised clothing from her boudoir boutique in St. Nichols Market. 
+A selection of her gorgeous clothing will be for sale on the Sunday at Punchbowl Festival.
+ </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.custardhouseclothing.co.uk">www.custardhouseclothing.co.uk</a><br />
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/36/cus2.jpg" class="band" alt='custard' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Paper Garden</h1>
+			<p>The Paper Garden, created by Bristol based book artist Stephanie Anne Taylor, produces one-of-a-kind unique sketchbooks, journals and stationary. Using vintage and recycled materials, The Paper Garden offers a bespoke bookbinding service. Commissions and unique wedding stationary available.  </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.thepapergarden.co.uk">www.thepapergarden.co.uk</a><br />
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/35/paper.jpg" class="band" alt='paper' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">House of Stuffy</h1>
+			<p>House of Stuffy is a hobby disguised as a business; selling hand-crafted soft toys, gifts, clothing & accessories lovingly crafted from new and recycled materials. Hoping to bring smiles to just about anyone with a sense of humour and a love of all things silly and cute! </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.facebook.com/#!/pages/House-of-Stuffy/196145793749837">facebook</a><br />
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/34/stuffy.jpg" class="band" alt='stuffy' />
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Jam with RoBina</h1>
+			<p>ProgFolk alt-tuned 4-piece acoustic band from South Wales<br/>
+Formed in 2006 from the ashes of "The Immigranti", Jam with RoBina started as a songwriting project focused on developing an original style full of intricate melodies complemented by strong rhythmic guitars.<br/>
+Fable-led sophomore album "Dark Recollections" (2011) has received extensive airplay from BBC Radio Wales as well as rich praise from Buzz, MMP & NSW: "A fine collection of acoustic songs full of mysticism and story telling, reaching its zenith with the Led Zep lll guitar interplay mastery of “ Sons of Odin ” and the epic “ Epic mother ”.
+JWR have recently expanded with the addition of guitarist Ryan Neal & bassist Rory Williams<br/>
+
+ </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.myspace.com/jamwithrobina">myspace</a><br />
+<a href="http://www.facebook.com/jamwithrobina">facebook</a><br />
+<a href="http://twitter.com/jamwithrobina">twitter</a><br />
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/31/jam.jpg" class="band" alt='jam' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">The Breretons</h1>
+			<p>Formed in 2010, Kent based folk/country artists The Breretons are set to emerge on the London music scene this year with a string of live dates and a debut album scheduled for release in the Autumn. Born from the ashes of London based rock outfit The Original Sinners, the borther/sister duo Marc and Charlotte are returning to their folk roots, playing heartfelt story telling songs of rare poetic quality. with influences spanning from Joni Mitchell, Led Zepplin, Richard Thompson, Jonny Cash, Joy Division. Their haunting harmony vocals are accompanied by Alex Metcalfe (piano), Kirsty Mangan (violin), Jim Cox (drums) and Pete Clements (bass). </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.soundcloud.com/thebreretons">soundcloud</a><br />
+<a href="http://www.facebook.com">facebook</a><br />
+
+
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/32/breretons.jpg" class="band" alt='Breretons' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">K.K & Booker</h1>
+			<p>Tongue-in-cheek surf pop duo K.K. & Booker play nice little songs about their cartoon lives and the seaside.
+ </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/33/kk.jpg" class="band" alt='KK' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">PROJECT T</h1>
+			<p>Project T was born out of the desire to be free and creative with other musicians who love to loose hours in the studio having fun and getting excited about music.  The rhythm section is supplied by the tight 'drum n bass' duo Gideon Woods and Ben Coleman who have been playing together for 20 years, so inevitably the music has an undercurrent 'drum n bass' influence however, this is juxtaposed with a strong Jazz injection from the incredibly talented pianist Tom Coxhead, backed by the sweet sounds of Chris Daniels and his beautiful saxophone. Frances Andrews is debuting on vocals, taking inspiration from artists such as Beth Gibbons, Nina Simone, Roisin Murphy and Andreya Triana among others.  Project T are very excited about Punchbowl and can't wait to perform at their first festival!  They are also looking for a new name, any suggestions welcome! </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/28/Project-T.jpg" class="band" alt='Project-T' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">HEG DOUGHTY AND THE WOLF CHORUS</h1>
+			<p>Heg's music takes you on a journey through intimate snapshots of life to epic tales of the stormy Atlantic. Born and raised in the South West of England, Heg grew up on a diet of folk, pop and musicals, all of which have found their place in her piano based songs. During her time studying at Dartington College of Arts, Heg began to inject storytelling into her songs, finding inspiration in her family tree, well known and not-so-well-known stories. This year Heg is joined by her newly formed ensemble, The Wolf Chorus - an entourage of voices, strings and percussion. Heg is currently based in Bristol and regularly gigs around the UK. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.hegdoughty.com">hegdoughty</a><br/>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/27/Heg.jpg" class="band" alt='Heg' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">TOM SELLER</h1>
+			<p>Down-tempo chilled electronica influenced by a wide range of sources - glitchy guitars and low fi drums add to the minimal and synthesized elements of his music. With its intent to create a relaxed audience, Seller's DJ set will feature his own work along with other artists in the same field.<br/> </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/26/tom-seller.jpg" class="band" alt='Tom-Seller' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">FITTY GOMASH   </h1>
+			<p>Straight from the heartlands of Bristol, an energetic and absorbing folk, country and gypsy collective playing an up-beat ceilidh for you to dosey-do away your afternoons with absorbing melodies and foot-stomping beats. Participation greatly encouraged!<br/> </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/25/Fitty-Gomash.jpg" class="band" alt='Fitty-Gomash' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">THE STRIDE</h1>
+			<p>A piano-fueled melange of swing, soul, reggae, blues and jazz inspired tunes, sung by the soulful Sophie G. The Stride will take you on a journey from emotive reflection to foot-stomping vitality.<br/> </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/24/The-Stride.jpg" class="band" alt='The Stride' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">HAYASHI</h1>
+			<p>Breaking away from the guitar based band format, and being influenced by Drum ‘n’ Bass, Alt, and Electronica. Hayashi is a band playing music which would usually be performed using computers or sequencers playing loops. Hayashi play it live. It is a melodious break-beat experience with great big bass complemented by dark, beautiful vocals. <br />
+
+“Hayashi will make you dance while breaking your heart as the walls run with sweat.” Sandman Magazine </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.hayashimusic.co.uk">hayashi</a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/23/hayashi.jpg" class="band" alt='hayashi' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">SPREE</h1>
+			<p>Spree are an alternative indie rock/pop band from Devon, just finished recording their debut album at Sawmills Studio , Cornwall. The band recently signed to DLR Management and will be releasing their first single during the summer. The distinctive sound of SPREE can be caught over the summer months with tours of the South West along with a number of festivals. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.myspace.com/spreeband">myspace</a>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/14/spree.jpg" class="band" alt='spree' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">TOM SHACKLETON</h1>
+			<p> </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.youtube.com/watch?v=WS5w">youtube</a>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/13/tomshackleton2.jpg" class="band" alt='Tom Shackleton' />
+	</div>
+	
+</div>
+
+
+
+
+				
+
+</div>
+<!--FOOTER INFO-->
+<div id="foot">
+<div id="footer">
+
+  <p id="contact"> <a href="mailto:info@punchbowlfestival.com" >Get in contact</a></p>
+
+</div>
+<div id="designed">
+<p id="contact">Web Design by <a href="http://www.nw1pc.co.uk" >nw1pc.co.uk</a></p>
+
+</div>
+<script language="javascript"
+          src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"
+          type="text/javascript"></script>
+<script language="javascript" src="/javascripts/fancy_box/jquery.fancybox-1.3.0.pack.js" type="text/javascript"></script>
+<script type='text/javascript'>
+  //<![CDATA[
+    $(document).ready(function() { $('.fancy-img').fancybox({'cyclic':true, 'titlePosition':'inside', 'zoomSpeedIn':250, 'zoomSpeedOut':250, 'overlayColor':"#222", 'overlayOpacity':0.4, 'hideOnContentClick':true}) });
+  //]]>
+</script>
+
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

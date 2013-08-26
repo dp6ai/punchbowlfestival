@@ -1,0 +1,544 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+  <title>Punchbowl Festival 2013 - 30th August - 1st September - Wiltshire</title>
+  <meta name="description" content="" /><meta name="keywords" content="" />
+  <!-- Individual YUI CSS files --> 
+  <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/reset/reset-min.css"> 
+  <link rel="stylesheet" type="text/css" href="/css_main" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_menu" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_gallery" media="all" title="Default" charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/css_print" media="all" title="Default" charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="/stylesheets/tags.css" />
+<link href="/stylesheets/fancy_box/jquery.fancybox-1.3.0.css" media="all" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="/css_ie" media="all" title="Default" charset="utf-8"/>
+  <![endif]-->
+  <!--[if lt IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css_ie5" media="all" title="Default" charset="utf-8"/>
+  <![endif]-->
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script type="text/javascript" src="/javascripts/highslide/highslide-with-gallery.js"></script>
+ <script type="text/javascript">
+ </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24675910-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body class="default">
+<div id="site">
+<div id="homepage" class="page">
+<div id="pagebox">
+<!--HEADER -LOGO ETC.-->
+<div id="header">
+<div id="logo">
+<!-- <img class="logo" src="../images/logo/punchbowllogo.jpg" alt="punch bowl festival logo" />   REMOVE -->
+<a href="/"><img src="/assets/2/punchbowllogo2013.jpg" class="logo" alt='punchlogo' /> </a>
+</div>
+</div>
+<!--NAVIGATION - MENU-->
+<div id="nav">
+<div id="menu" class="menu">
+ <div id="nav">
+ <div id="menu" class="menu">
+<ul>
+    <ul class="tr">
+    <li class="first" id="home"><a href="/" id="link_home">HOME</a></li>
+	<li id="nav_about">
+    <a href="/about/" id="link_about">ABOUT</a></li>
+	<li id="nav_tickets">
+    <a href="/tickets/" id="link_tickets">TICKETS</a></li>
+	<li class="current has_children" id="nav_whats-on">
+    <a href="/whats-on/" id="link_whats-on">WHATS ON</a></li>
+	<li id="nav_good-to-know">
+    <a href="/good-to-know/" id="link_good-to-know">GOOD TO KNOW</a></li>
+
+    </ul>
+</ul>
+ </div>
+</div>
+</div>
+</div>
+ 
+<!--ALL MAIN CONTENT-->
+<div id="main">
+
+<div id="horiz">
+<div id="textbox" class="main">
+<div id="maintext" class="odd">
+<div id="horiz" class="home"><h1>LATEST NEWS AND CONFIRMED BANDS</h1></div>
+
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Total Eclipse of The Head</h1>
+			<p>Ella Good and Nicki Kent are Bristol based artists who collaborate to make experimental performance and live art.
+
+They are members of artist-led space Residence. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.ellaandnicki.com">ellaandnicki</a><br/>
+<a href="http://www.residence.org.uk">residence</a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/73/ECLIPSEn.jpg" class="band" alt='ECLIPSE' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Nail Mary</h1>
+			<p>Returning to Punchbowl by popular demand.
+Nail Mary is a creative nail art company.
+We love art. We want it at our fingertips. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://cargocollective.com/nailmary/NAIL-MARY">NAIL-MARY</a><br/>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/76/NAILMARY.jpg" class="band" alt='NAILMARY' />
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">HAYASHI</h1>
+			<p>With the phattest rhythm section since Sly & Robbie, the Hayashi sound comprises jaw dropping drumming from Gideon Woods, big Bass grooves from Benjamin Coleman, complemented by Stefanos Efthimiou's melodies that are lush and dirty in equal measure. Hayashi also features the talents of Leeds based vocalists including Oova Matique, D3creations, and Miss Fanny Adams. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.hayashimusic.co.uk">hayashi</a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/88/hyashi.jpg" class="band" alt='hyashi' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">DJD</h1>
+			<p>DJD is an upcoming Garage & House producer who has recently gained heavy, regular radio support on the UKs leading urban stations including BBC Radio 1Xtra, Kiss and RinseFM. With recent remixes signed to the legendary UK Garage label Ice Cream Records, new UKG label Bumpa Funk records, as well as an incredibly successful free bootleg EP, he is definitely one to watch in the near future. In addition to this, he has many years’ experience as a club DJ and is known to absolutely destroy dance floors with his consistently top notch music selection. Fully supported by the New UK Garage scene, he has had the privilege to work alongside many of the scenes leading and renowned DJs, Artists and Producers </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.facebook.com/djdonlineuk">facebook</a><br/>
+<a href="http://www.twitter.com/djdofficial">twitter</a><br/>
+<a href="http://www.soundcloud.com/djd1991">soundcloud</a>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/45/new.gif" class="band" alt='djd' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Wheels</h1>
+			<p>The birth of Wheels was an easy one. Five old friends who share a love for rock and roll music, soul, folk and country. This year saw the release of their debut album 'Ten Popular Melodies' on Easy Action Records, available on itunes and Amazon. If Neil Young had ever written songs with the Velvet Underground than that would probably be the closest to describing how Wheels sound. Enjoy. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://soundcloud.com/wheelstheband/sets/ten-popular-melodies">soundcloud</a><br/>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/50/wheels.gif" class="band" alt='Wheels' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Jake Twell</h1>
+			<p>This year we welcome back Jake Twell, a name becoming synonymous with bass music in the Midlands. Not only content with playing with the world class DJs for dbe in Loughborough, over the last year he has supported many heavyweights in the dance music scene, Redlight, Benga, Hannah Wants, XXXY, Shadow Child, Eats Everything and DJ Zinc to name a few, as well as holding down residencies in Leicester + Loughborough. Expect music from all across the bass music spectrum, and some noises you haven't heard before.
+
+ </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.Facebook.com/jaketwelldj">facebook</a><br/>
+<a href="http://www.Twitter.com/itsjaketwell">twitter</a><br/>
+<a href="http://www.Soundcloud.com/jaketwell">soundcloud</a><br/>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/60/jaketwell.jpg" class="band" alt='jaketwell' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Pasquale</h1>
+			<p>"Pasquale has been djing and promoting nights for the last 12 Years in and around the Midlands. From hosting nights in Loughborough to Croatia via Ibiza playing alongside a who's who of the dance music royalty such as Danny Rampling, Annie Mac, Fake Blood, Justice, Skream, Benga, Katy B plus many many more...
+He has been well travelled, and finds himself in the mix of the UK dance seen. Expect to hear all forms of dance music from Disco to Nu Skool bass music. A journey into his 12 years in the game... "
+ </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/57/pasqual.gif" class="band" alt='pasqual' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">SUPERBEAT</h1>
+			<p>SUPERBEAT are a Bristol based three-piece dance act. They make spontaneous and fun dance music that mixes house, breakbeat and pop-music into one sound. </p>
+		</div>
+		<div id="linktext">
+			<a href="http://superbeatblog.com">blog</a><br/>
+<a href="http://superbeat.bandcamp.com">bandcamp</a><br/>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/58/superbeat.jpg" class="band" alt='superbeat' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Carboot Disco Bingo</h1>
+			<p>Jasmine Loveys & Megan Clark-Bagnall present Carboot Disco Bingo. CDB is the Kinder Surprise of school discos combining 3 great things to form one fabulous experience. Think Henry Ford meets Donna Summer down the Gala. C'mon discodogs, get your groove on and get that Full House! Jazz and Meg return, along with brilliant prizes, to Punchbowl. This performance was made especially for last years Punchbowl festival so this year we're back with a 1st birthday party anniversary spectacular! 
+ </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/63/carboot.jpg" class="band" alt='carboot' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Sleazy Wonders</h1>
+			<p>Skilled Sailor, Heavy Drinker, Endless Style. These are three integral parts that make up the Sleazy Wonder manifesto. A washed up version of his former Texan Sailing Champion 1976 self, Sleazy is currently on the comeback trail playing gigs across his adopted country Britain. With a style that never went out of fashion he his making girls and boys dance sensually and smoothly to his waves of good time music. Expect Boogie, Disco & Funk in bite-size portions with plenty of thrills and spills along the way. Catch him sailing to your venue very soon </p>
+		</div>
+		<div id="linktext">
+			<a href="http://soundcloud.com/sleazyswonderland">sleazy</a><br/>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/67/SWprofile.jpg" class="band" alt='SLEAZY' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Onza</h1>
+			<p>Hailing from somewhere near Bath, Onza is a creative young producer. Having already played alongside the likes of Zed Bias and T.Williams he’s beginning to generate acclaim behind the decks as well as in production.
+Onza is influenced by the likes of Aretha franklin, Prince and in more recent years the likes of Todd Edwards and Mark Ronson. His first track ‘A deeper love’ was a giveaway for Eton Messy’s 10,000th YouTube ‘Like’ reaching thousands of viewers in a matter of hours. Keen to collaborate Onza has worked with a variety of artists across a variety of genres. Commitment to his music has led on to club bookings in Bath, Bristol and beyond. </p>
+		</div>
+		<div id="linktext">
+			<a href=""></a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/68/HI.jpg" class="band" alt='ONZA' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Yobema</h1>
+			<p>As Yobema moved away from Loughborough and up to Leeds to pursue the cities thriving nightlife and culture, as well as stocking up on vinyl, his taste and love for the more 4/4 side of electronic music blossomed. The Yorkshire Beat Manipulator was born. But it wasn't long until he returned to a dbe in full flow, playing vinyl only sets which fused together the ethics of deep house together with the upfront excitement of the bass music which dbe is renowned for. As a DJ Yobema's selections are always of the upmost quality and his mixing has become more and more precise as his musical brain expands. </p>
+		</div>
+		<div id="linktext">
+			<a href=""></a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/69/Yobema.jpg" class="band" alt='YOBEMA' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Dave Woods</h1>
+			<p>Dave Woods first popped up on the scene a few years back playing house parties in and around Loughborough.  After confirming a residency at dbe he has been going from strength to strength frequently supporting some of the biggest parties in the Midlands.  With his music tastes primarily lying around the 120-130 bpm mark, he is not one to be pigeonholed to a specific genre. Bass heavy house is usually the order of the day and with an increasing skill set in his own productions, you are likely to hear some of his own unreleased gems. </p>
+		</div>
+		<div id="linktext">
+			<a href=""></a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/70/Dave-Woods.jpg" class="band" alt='WOODS' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">MusicJoeLikes</h1>
+			<p>Joe DJs at a few nights in Falmouth: Mixing music he likes (mostly house and techno), he often plays at organised free parties and house parties and has most recently been on a line up supporting Loefah. </p>
+		</div>
+		<div id="linktext">
+			<a href=""></a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/71/MJL.jpg" class="band" alt='MJL' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Hawka</h1>
+			<p>Chris Hawker, a.k.a 'Hawka' is a DJ based in Reading and Loughborough. Blending tracks produced by the UK underground scene with genres such as grime, garage, house and techno with the occasional modern classic, there is sure to never be a dull moment! Hawka has been pushing his sound in Loughborough at the hugely successful Lufbra Soundclash and Duboro/dbe parties. Make sure to catch him at Punchbowl Festival for something a little bit different... </p>
+		</div>
+		<div id="linktext">
+			<a href=""></a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/72/Hawka.jpeg" class="band" alt='HAWKA' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Charlie Inman</h1>
+			<p>Charlie has been playing pretty much the same records with his actual hands for more than two decades. In his defence, they are really good ones. He doesn't like electronic dance music.  </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/79/charlie.jpeg" class="band" alt='Charlie Inman' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Emma Lawrence</h1>
+			<p>Emma Lawrence is an up and coming singer/songwriter from North Hampshire who has been writing since she was 15 years old. She refers to her music as an acoustic fusion of folk and R&B which has its own distinct style and is very much of the time. She has been performing in and around North Hampshire and West Berkshire for the past year at various music venues and has brought out her debut 8 track EP this spring. Her influences are singers such as Ed Sheeran, Ben Howard, and Emilie Sande and she has been compared to Amy MacDonald.  </p>
+		</div>
+		<div id="linktext">
+			<a href="http://www.facebook.com/emmalawrencesinger">facebook</a><br/>
+
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/80/Emma Lawrence.jpeg" class="band" alt='Emma Lawrence' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">The Original Spinners</h1>
+			<p>The Original Spinners are a company of dancing clowns.  We bring great music, we dance, we play and we like you to join in with us too! </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/81/Screen Shot 2013-07-31 at 12.11.23.jpg" class="band" alt='TOS' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">bert miller and the animal folk</h1>
+			<p>"The twelve legged freak show that is. .Bert miller and the animal folk! Normal service will be resumed shortly!" -Glastonbury 2013 </p>
+		</div>
+		<div id="linktext">
+			<a href="http://animalfolkmusic.com/">website</a>
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/85/animal folk.jpg" class="band" alt='animal folk' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Utterance</h1>
+			<p>"Utterance is The Wardrobe Theatre's in-house choir open to everyone who has a passion for singing and all things mellifluous!!
+
+Come and join Verity Standen and the wondrous singists perform a diverse range of acapella vocal music. The performance will include circle jamming,improvising, Eastern European folk, contemporary as well as some originals composed by Verity.
+
+Skee ba dee doo wap!" </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/84/utterance.jpg" class="band" alt='utterance' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">The Breretons</h1>
+			<p>"Formed in 2010, Kent based folk/country artists The Breretons are set for a break through year in 2013 with a string of live dates and a debut album scheduled for release in the spring. Born from the ashes of London based rock outfit The Original Sinners, the brother/sister duo Marc and Charlotte have returned to their folk roots, playing heartfelt story telling songs of rare poetic quality crafted around haunting harmony vocals. With their timeless song writing ability being recognised in high places in 2012, the forthcoming album features a stellar line up of musicians including Paul Winter-Hart (Kula-Shaker) on drums and the acclaimed Henrik Irgens on Bass. The lead single ""When We Were Young"" is set for release in March with a UK tour to follow in the spring." </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/86/breretons copy.jpeg" class="band" alt='breretons' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Kymo</h1>
+			<p>"Kymo (K_eye_Mo) are a multi-instrumental acoustic 3 piece based in Cardiff...orginally formed as a Duo, with the addition of Sam Griffiths on bass, guitar and vocals in April 2013. 
+
+After debuting their unique blend of vocal harmonies and instrumetation on BBC Radio Wales evening session in November 2012, Kymo released their eagerly awaited debut EP 'Paint by Blunders"" in April 2013. " </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/90/kymo.jpg" class="band" alt='kymo' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Count Bobo</h1>
+			<p>A new ska and rocksteady band formed by musicians in Bristol and Bath,
+Count Bobo and friends play traditional sax-led vocal harmony music
+taking influences from the likes of the Skatalites, Jackie Mittoo and
+Roland Alphonso. The six members of the band, all veterans of other
+various musical projects, soon had bookings flowing in all over the
+country, and hit the festival scene taking Glastonbury by storm. </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/93/countbobo.jpg" class="band" alt='countbobo' />
+	</div>
+	
+</div>
+
+<div id="horiz">
+	<div id="textbox">
+		<div id="maintext" class="odd">
+  			<h1 class="home">Rum Buffalo </h1>
+			<p>Playing a fusion of surreal western swing, bastard bluegrass and contemporary dixie ragtime, Rum Buffalo brings edgy old time classics to the stage and the streets. </p>
+		</div>
+		<div id="linktext">
+			
+		</div>
+	</div>
+	<div id="imagebox">
+		<img src="/assets/92/rumbuffalo.jpg" class="band" alt='rumbuffalo' />
+	</div>
+	
+</div>
+
+
+</div>
+<div id="imagebox">
+<!--<img class="band" src="../images/junk/twinshadow.jpg" alt="punch bowl festival logo"  /> -->
+</div>
+</div>
+				
+
+</div>
+<!--FOOTER INFO-->
+<div id="foot">
+<div id="footer">
+
+  <p id="contact"> <a href="mailto:info@punchbowlfestival.com" >Get in contact</a></p>
+
+</div>
+<div id="designed">
+<p id="contact">Web Design by <a href="http://www.nw1pc.co.uk" >nw1pc.co.uk</a></p>
+
+</div>
+<script language="javascript"
+          src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"
+          type="text/javascript"></script>
+<script language="javascript" src="/javascripts/fancy_box/jquery.fancybox-1.3.0.pack.js" type="text/javascript"></script>
+<script type='text/javascript'>
+  //<![CDATA[
+    $(document).ready(function() { $('.fancy-img').fancybox({'cyclic':true, 'titlePosition':'inside', 'zoomSpeedIn':250, 'zoomSpeedOut':250, 'overlayColor':"#222", 'overlayOpacity':0.4, 'hideOnContentClick':true}) });
+  //]]>
+</script>
+
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

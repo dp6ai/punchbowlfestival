@@ -1,0 +1,127 @@
+Script started on Wed Jul 20 17:55:49 2011
+bash-3.2$ ç[Kquit
+bash: quit: command not found
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ ls -lart
+total 216
+drwxrwxrwx  17 root    staff    578 27 Jun 16:43 script
+-rwxrwxrwx   1 root    staff    103 27 Jun 16:43 Rakefile
+-rwxrwxrwx   1 root    staff   2189 27 Jun 16:43 README
+-rwxrwxrwx   1 root    staff   1097 27 Jun 16:43 LICENSE
+-rwxrwxrwx   1 root    staff   1345 27 Jun 16:43 INSTALL
+-rwxrwxrwx   1 root    staff   2878 27 Jun 16:43 CONTRIBUTORS
+-rwxrwxrwx   1 root    staff  34980 27 Jun 16:43 CHANGELOG
+drwxrwxrwx   6 root    staff    204 28 Jun 08:29 tmp
+drwxrwxrwx  16 root    staff    544  5 Jul 21:36 public
+drwxrwxrwx   5 root    staff    170 11 Jul 09:59 vendor
+-rw-rw-r--   1 kips    staff  31748 12 Jul 09:54 logo.gif
+drwxrwxrwx   4 root    staff    136 12 Jul 10:26 log
+drwxr-xr-x+ 24 kips    staff    816 20 Jul 11:00 ..
+drwxrwxrwx   5 root    staff    170 20 Jul 11:03 db
+-rw-r--r--@  1 kips    staff   6148 20 Jul 11:31 .DS_Store
+drwxrwxrwx   8 root    staff    272 20 Jul 12:30 config
+-rw-rw-r--   1 kips    staff     41 20 Jul 16:18 Gemfile
+-rw-r--r--   1 nobody  staff    116 20 Jul 16:19 Gemfile.lock
+drwxrwxrwx  20 root    staff    680 20 Jul 17:55 .
+-rw-rw-r--   1 kips    staff     43 20 Jul 17:56 console
+bash-3.2$ rails --version
+Rails 3.0.9
+bash-3.2$ ls -lart vendor/
+.DS_Store   extensions/ plugins/    
+bash-3.2$ ls -lart vendor/extensions/
+total 16
+drwxrwxrwx  19 kips  staff   646 27 Jun 17:05 settings
+drwxrwxrwx  18 root  staff   612 27 Jun 17:07 paperclipped
+drwxrwxrwx  12 root  staff   408 27 Jun 17:14 sitemap_xml
+drwxrwxrwx   9 root  staff   306 27 Jun 17:15 random_child
+drwxrwxrwx   9 root  staff   306 27 Jun 17:24 nested_layouts
+drwxrwxrwx  13 root  staff   442 27 Jun 17:24 help
+drwxrwxrwx  17 root  staff   578 27 Jun 17:25 page_list_view
+drwxrwxrwx   9 root  staff   306 27 Jun 17:26 sibling_tags
+drwxrwxrwx  10 root  staff   340 29 Jun 17:49 paginate
+drwxrwxrwx  13 root  staff   442 29 Jun 18:05 aggregation
+drwxrwxrwx  11 kips  staff   374 29 Jun 18:09 drag_order
+drwxr-xr-x   9 root  staff   306  5 Jul 21:21 navigation_tags
+drwxrwxrwx   5 root  staff   170 11 Jul 09:59 ..
+drwxrwxr-x  16 kips  staff   544 11 Jul 09:59 copy_move
+drwxr-xr-x  11 root  staff   374 12 Jul 09:05 fancy_box
+drwxrwxrwx  17 root  staff   578 12 Jul 09:05 .
+-rw-r--r--@  1 kips  staff  6148 20 Jul 10:02 .DS_Store
+bash-3.2$ ls -lart vendor/extensions/[K[K[K[K[K[K[K[K[K[K[Kplugins/
+total 0
+drwxrwxrwx  2 root  staff   68 27 Jun 16:43 .
+drwxrwxrwx  5 root  staff  170 11 Jul 09:59 ..
+bash-3.2$ gem list
+
+*** LOCAL GEMS ***
+
+abstract (1.0.0)
+actionmailer (3.0.9, 3.0.6, 2.3.5)
+actionpack (3.0.9, 3.0.6, 2.3.5)
+activemerchant (1.15.0)
+activemodel (3.0.9, 3.0.8, 3.0.7, 3.0.6)
+activerecord (3.0.9, 3.0.6, 2.3.5)
+activeresource (3.0.9, 3.0.6, 2.3.5)
+activesupport (3.0.9, 3.0.8, 3.0.7, 3.0.6, 2.3.5)
+acts_as_list (0.1.2)
+arel (2.0.10, 2.0.9)
+bcrypt-ruby (2.1.4)
+braintree (2.10.1)
+builder (3.0.0, 2.1.2)
+bundler (1.0.15, 1.0.12)
+calendar_date_select (1.16.2)
+cancan (1.6.4)
+capistrano (2.5.21)
+daemon_controller (0.2.6)
+devise (1.3.3)
+erubis (2.7.0, 2.6.6)
+faker (0.9.5)
+fastthread (1.0.7)
+formtastic (1.2.4)
+haml (3.1.2)
+has_many_polymorphs (2.13)
+highline (1.6.1, 1.5.1)
+i18n (0.5.0)
+imagesize (0.1.1)
+jquery-rails (0.2.6)
+mail (2.2.19, 2.2.15)
+meta_search (1.0.5)
+mime-types (1.16)
+morhekil-capistrano-deepmodules (0.2)
+mysql (2.8.1)
+nested_set (1.6.6)
+net-scp (1.0.4)
+net-sftp (2.0.5)
+net-ssh (2.1.4)
+net-ssh-gateway (1.0.1)
+orm_adapter (0.0.5)
+paperclip (2.3.11)
+passenger (3.0.6)
+polyglot (0.3.1)
+rack (1.2.2, 1.1.2, 1.0.1)
+rack-mount (0.7.1, 0.6.14)
+rack-test (0.5.7)
+radiant (0.9.1)
+radiant-tags-extension (1.6.1)
+rails (3.0.9, 3.0.6, 2.3.5)
+railties (3.0.9, 3.0.6)
+rake (0.8.7)
+rd_find_by_param (0.1.1)
+rd_resource_controller (1.0.1)
+rd_unobtrusive_date_picker (0.1.0)
+rdoc (3.8)
+RedCloth (4.2.7)
+rmagick (2.13.1)
+rubygems-update (1.8.5, 1.7.2, 1.4.2, 1.3.7)
+sass (3.1.3)
+sqlite3 (1.3.3)
+state_machine (0.9.4)
+stringex (1.0.3)
+thor (0.14.6)
+treetop (1.4.9)
+tzinfo (0.3.26)
+warden (1.0.4)
+will_paginate (3.0.pre2, 2.3.15)
+bash-3.2$ 

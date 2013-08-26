@@ -1,0 +1,8 @@
+#site{
+width: 817px;}
+#maintext_vert{
+width:800px;
+}
+#linktext{
+width:auto;
+}
